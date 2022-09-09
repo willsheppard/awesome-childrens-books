@@ -16,7 +16,7 @@ Below you will find:
     *   [Topics](https://www.booksfortopics.com/topics)
     *   [Year groups](https://www.booksfortopics.com/yeargroups)
         *   ...TODO
-        *   [50 Recommended Reads for Year 4 (ages 8-9)](https://www.booksfortopics.com/year-4): data (TODO)
+        *   [50 Recommended Reads for Year 4 (ages 8-9)](https://www.booksfortopics.com/year-4): [ ![csv](csv-small.png) ](data/booksfortopics-year4-age8-9.csv)
         *   ...TODO
 *   that "book of books" (todo)
 
