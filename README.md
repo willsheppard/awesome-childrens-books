@@ -1,13 +1,24 @@
 # awesome-childrens-books
 
-Children's books that have been recommended by various sources, as well as some free children's books.
+The best children's books, as recommended by various sources (fiction, factual, and learning to read) as well as some free children's books.
+
+Below you will find:
+
+*   Links to the lists of books
+*   Each list available in easy-to-manage data format (csv) for use in any software that recommends children's books.
 
 ## Best books
 
-* https://www.booktrust.org.uk/books-and-reading/our-recommendations/100-best-books
-* https://www.timeout.com/london/kids/the-100-best-childrens-books
-* https://www.penguin.co.uk/articles/2022/03/best-childrens-books-stories
-* that "book of books" (todo)
+*   https://www.booktrust.org.uk/books-and-reading/our-recommendations/100-best-books
+*   https://www.timeout.com/london/kids/the-100-best-childrens-books
+*   [https://www.penguin.co.uk/articles/2022/03/best-childrens-books-stories](https://www.penguin.co.uk/articles/2022/03/best-childrens-books-stories)
+*   BooksForTopics.com
+    *   [Topics](https://www.booksfortopics.com/topics)
+    *   [Year groups](https://www.booksfortopics.com/yeargroups)
+        *   ...TODO
+        *   [50 Recommended Reads for Year 4 (ages 8-9)](https://www.booksfortopics.com/year-4): data (TODO)
+        *   ...TODO
+*   that "book of books" (todo)
 
 ## Goodreads lists
 
@@ -16,3 +27,8 @@ TODO.
 ## Free books
 
 TODO.
+
+#### Learning to read
+
+*   [https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/)
+    *   Julia Donaldson’s Songbirds
