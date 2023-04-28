@@ -19,16 +19,23 @@ Below you will find:
         *   [50 Recommended Reads for Year 4 (ages 8-9)](https://www.booksfortopics.com/year-4): [ ![csv](csv-small.png) ](data/booksfortopics-year4-age8-9.csv)
         *   ...TODO
 *   that "book of books" (todo)
+*   https://www.juliadonaldson.co.uk/books/educational/songbird-phonics/
 
 ## Goodreads lists
 
-TODO.
+TODO: Create lists in Goodreads of the acclaimed children's books shown above.
+
+TODO: Copy existing Goodreads list of good children's books to this machine-readable format.
 
 ## Free books
 
 TODO.
 
-#### Learning to read
+### Free "learning to read" books
 
-*   [https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/)
+* [Free eBook Library from Oxford Owl](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/)
     *   Julia Donaldson’s Songbirds
+
+## More ideas
+
+* Provide URLs for each book at OpenLibrary / GoodReads / Amazon / etc
