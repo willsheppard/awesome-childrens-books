@@ -20,22 +20,3 @@ Below you will find:
         *   ...TODO
 *   that "book of books" (todo)
 *   https://www.juliadonaldson.co.uk/books/educational/songbird-phonics/
-
-## Goodreads lists
-
-TODO: Create lists in Goodreads of the acclaimed children's books shown above.
-
-TODO: Copy existing Goodreads list of good children's books to this machine-readable format.
-
-## Free books
-
-TODO.
-
-### Free "learning to read" books
-
-* [Free eBook Library from Oxford Owl](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page/)
-    *   Julia Donaldson’s Songbirds
-
-## More ideas
-
-* Provide URLs for each book at OpenLibrary / GoodReads / Amazon / etc
